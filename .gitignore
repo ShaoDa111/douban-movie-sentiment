@@ -1,0 +1,9 @@
+# 忽略大型数据与中间产物（GitHub 单文件上限 100MB）
+data/
+__pycache__/
+*.pyc
+*.csv
+*.npy
+*.bin
+*.png
+.ipynb_checkpoints/
